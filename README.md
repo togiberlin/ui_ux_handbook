@@ -1,5 +1,8 @@
 # User Interface and User Experience Design Handbook (Remote Independent Contractor Edition)
-## Jae Min Kim
+## UXDesignSumo
+### www.uxdesignsumo.com
+
+#### What is User Interface (UI)
 
 ### Overview
 ### Cover Art
