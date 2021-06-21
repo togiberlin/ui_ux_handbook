@@ -32,21 +32,22 @@ All rights reserved.In accordance with the U.S. Copyright Act of 1976, the scann
 UX Design Sumo
 www.uxdesignsumo.com
 
-First Edition: June 2021
+#### First Edition: 
+June 2021
 
-Editor:
+#### Editor:
 John Kim
 Javier Martinez
 
-Editorial Consultant:
+#### Editorial Consultant:
 
-Design Direction:
+#### Design Direction:
 
-Book Design Concept:
+#### Book Design Concept:
 
-Design Implementation:
+#### Design Implementation:
 
-Cover Design:
+#### Cover Design:
 
 https://elements.envato.com/cyberpunk-book-cover-MS5F8QW
 
@@ -56,9 +57,9 @@ Commercial License
 
 https://elements.envato.com/license-terms
 
-Image Researcher:
+#### Image Researcher:
 
-Designers:
+#### Designers:
 
 Special Thanks: Sara A, and to all my friends/family, whom were patient with me, and are there for on me, thoughtout this whole process.
 
