@@ -22,6 +22,7 @@
 #### Chapter 7: Coding as an UI/UX Designer
 ### About this Author
 ### Reference
+<<<<<<< HEAD
 ## Back Cover
 
 Copyright C 2021 by UX Design Sumo
@@ -51,3 +52,6 @@ Image Researcher:
 Designers:
 
 Special Thanks: Sara A
+=======
+## Back Cover
+>>>>>>> 2dae0746ffc6ea99f251dbdccd12b9a802585796
