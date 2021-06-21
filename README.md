@@ -1,5 +1,7 @@
 # User Interface and User Experience Design Handbook (Remote Independent Contractor Edition 2021)
 
+![Book Cover](book_cover.png)
+
 ## UXDesignSumo
 #### UXDesignSumo is your online resource for all things UX. We strive to provide a service and a Sass product list, that will provide various internal tools, as well as courses, digital UX Design kits, portfolio website web hosting. Stay tuned to learn more!
 ### www.uxdesignsumo.com
