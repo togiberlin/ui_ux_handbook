@@ -50,4 +50,4 @@ Image Researcher:
 
 Designers:
 
-Special Thanks: Sara A
+Special Thanks: Sara A, and to all my friends/family, whom were patient with me, and never gave up on me.
