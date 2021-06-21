@@ -48,6 +48,14 @@ Design Implementation:
 
 Cover Design:
 
+https://elements.envato.com/cyberpunk-book-cover-MS5F8QW
+
+Custom illustration by Andrew Skoch
+
+Commercial License
+
+https://elements.envato.com/license-terms
+
 Image Researcher:
 
 Designers:
