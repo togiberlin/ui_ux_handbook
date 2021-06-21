@@ -1,6 +1,6 @@
 # Chapter 6: Motivations (The Pep Talk)
 ## Motivations
-## Henry Martinez's Chapter
+## Javier Martinez's Chapter
 ## Motivation (Pep Talk)
 
 J:
