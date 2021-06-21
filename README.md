@@ -50,4 +50,28 @@ Image Researcher:
 
 Designers:
 
-Special Thanks: Sara A, and to all my friends/family, whom were patient with me, and never gave up on me.
+Special Thanks: Sara A, and to all my friends/family, whom were patient with me, and are there for on me, thoughtout this whole process.
+
+## Books
+
+### Designing Interfaces
+#### Patterns for Effective Interaction Design
+#### Third Edition 
+#### Jenifer Tidwell
+#### Charles Brewer
+#### Aynne Valencia
+
+### thinking with type
+#### A Critical Guide For Designer, Writers, Editors, & Students
+#### 2nd Edition
+#### Ellen Lupton
+
+### type on screen
+#### A Critical guide for designers, writers, developers, & students
+#### Ellen Lupton
+
+### The Practitioner's Guide to User Experience Design
+#### Luke Miller
+
+### Fullstack React, The Complete Guide to ReactJS and Friends
+#### Anthony Accomazzo, Arllerner, Clay Allsopp, David Guttman, Tyler Mcginnis, Nate Murray
