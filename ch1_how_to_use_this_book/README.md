@@ -1,6 +1,6 @@
 # Chapter 1: How to use this book
 
-![Welcome](./img/36.PNG)
+![Welcome](../img/36.PNG)
 
 ## Overview
 
