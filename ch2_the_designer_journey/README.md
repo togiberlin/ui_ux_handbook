@@ -16,6 +16,8 @@ Because there are so many different types of background, and avenues where peopl
 
 Type 1: You have a degree in UX Design from an acceditted university.
 
+Talk about some of the best art school in the world, such as Hongik University, Art Center,  Pratt Art School, California College of the Arts (CCA). There is a whole process to becoming a designer. For example the portfolio to get into art school.
+
 Type 2: You come from a more diverse background, work different odd jobs and also had meaningful career moves unrelated to UX Design. College wasn't seen as an option after High School, and instead had a financially fulfilling career in the trades, now looking to transition into a more concrete UX Design Role. 
 
 Type 3: Still in High School, interested in various topics but looking to select something in design that is competitive and financially fulfilling. Either State or Private Art Colleges is an option, but unsure about scholorships as well UX Design.
@@ -100,21 +102,57 @@ Now I would like to share my personal design journey, and we can begin to break 
 
 My personal journey as a designer started from a background in the Fine Arts. 
 
+![Welcome](../img/3.PNG)
+
 <!--- As many of you may have also experienced, my childhood was mainly unsupervised full of being enclosed in non airconditioned rooms, without TVs or Computers, actually the internet wasent really that good yet, people still used dial up and land lines. So I loved to draw and also write, being able to draw really saved my life at an early age. In High School which I attended in the Silicon Valley, California, I took AP Art, which means I took Art I, II, III then can take AP Art. --->
 
 In High School, attended Mission San Jose High School in the Silicon Valley, California, took AP Art.
 
+![Welcome](../img/4.PNG)
+
 After High School, attended Hongik University in Seoul for Industrial Design for a year, Actually my background is still in the process but I can share things up to know. 
 
-So the first major I picked was Industrial Design, and I learned about what is Industrial Design and what is Product Design? I still dont really have a good answer, but to be quite honest Industrial Design is the old way of doing things. When things were more mechanical and hardware was more  profitable in nature. This was actually before the Iphone was really that big, the first iphones came out when I was in High SChool. So the field of User Interfaces actually didnt really exist, besides on the computer like website, mobile applications were still not really a thing. It was really more like graphic designers who worked mainly on the web became web designers, and when mobile came out they became UI Designers, and Interaction Designers combined and became UI/UX Designers because probably the tech industry and the way they try to make sense of the labor.
+![Welcome](../img/5.PNG)
+
+So the first major I picked was Industrial Design.
+
+<!--- and I learned about what is Industrial Design and what is Product Design? I still dont really have a good answer, but to be quite honest Industrial Design is the old way of doing things. When things were more mechanical and hardware was more profitable in nature. This was actually before the Iphone was really that big, the first iphones came out when I was in High SChool. So the field of User Interfaces actually didnt really exist, besides on the computer like website, mobile applications were still not really a thing. It was really more like graphic designers who worked mainly on the web became web designers, and when mobile came out they became UI Designers, and Interaction Designers combined and became UI/UX Designers because probably the tech industry and the way they try to make sense of the labor. --->
 
 After returning to the United States of America, I attended DeAnza College in Cupertino for Graphic Design. 
 
+![Welcome](../img/1.PNG)
+
+![Welcome](../img/2.PNG)
+
 I transfered from DeAnza College to California College of the Arts In San Francisco, CA and Oakland, CA. My major I kept as Industrial Design. 
+
+![Welcome](../img/6.PNG)
 
 I did an internship at downtown san franciso in the spear tower at a mobile application startup. For UI/UX Design and Graphic Design Intern.
 
+## Story Starts Here
+
+So this is where the UX story starts, because this is a design journey everything that lead up to this point was everything besides UX. 
+
+So where were you when that transition happen?
+
+Because becoming a designer, you have to pick a major related to design. Now you are a designer, but you have to finish college, and you have to have relevant skillsets. So everyone here is a designer. But the question is when did you make the transtion into UX?
+
+Because I started as an Industrial Designer, I was unaware of this industry called UX Design. I was looking for a job in 2016, which turned into an internship at the Spear tower in Downtown San Francisco (SOMA), for a UI/UX and Graphic Design Internship. 
+
+Is this luck? There are many ways to look for an internship, for example job fairs at California College of the Arts, where various companies show up to look for qualified interns.
+
+When I started my internship, I was mainly doing office tasks for example buying for the office from Target, office tasks, and others.
+
+One of the first tasks was the make graphics related to their logo.
+
+![Welcome](../img/7.PNG)
+
+![Welcome](../img/8.PNG)
+
 There I did my first UI Design, I will share it here.
+
+![Welcome](../img/9.PNG)
 
 I will now critic this UI Design.
 
@@ -129,6 +167,9 @@ What I like about this design is that it is an original. because of that fact, t
 An original design is better than an amazing prebuilt.. at least when it comes to personal expections.Actually starting from a prebuilt and then working on the design will save alot of time and will solve most of these padding issues, and text issues, as well as this design being done back in 2015, where it was for the iphone 5, now we are iphone max 12.
 
 I did an 3 month internship and my favorite design I did for that startup is this one here.
+
+
+
 
 This is actually two designs. One it showcases a UI inside the UI. The design is for an onboarding screen, and that onboarding screen uses an UI that was designed for the Production Application. 
 
