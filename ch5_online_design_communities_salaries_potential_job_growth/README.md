@@ -1,7 +1,29 @@
 # Chapter 5: Online Design Communities, Salaries Potential, Job Growth
 ## Online Presence and Design Communities
 
-**Professional Job Boards**
+USA only jobs for design
+
+San Francisco Bay Area
+
+Silicon Valley Area
+
+## How to get an Internship
+
+## Salaries UX Design
+
+## Market Growth
+
+## Different types of jobs for designers
+
+## Contracts for Designers
+
+## Gigs for Designers
+
+
+
+
+
+## Professional Job Boards
 
 ## **[UXPA Job Bank](https://uxpa.org/job-bank)**
 

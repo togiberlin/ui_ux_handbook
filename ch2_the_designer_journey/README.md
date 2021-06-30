@@ -124,6 +124,17 @@ After returning to the United States of America, I attended DeAnza College in Cu
 
 ![Welcome](../img/2.PNG)
 
+![Welcome](../img/24.PNG)
+
+![Welcome](../img/25.PNG)
+
+![Welcome](../img/28.PNG)
+
+![Welcome](../img/31.PNG)
+
+![Welcome](../img/41.PNG)
+
+
 I transfered from DeAnza College to California College of the Arts In San Francisco, CA and Oakland, CA. My major I kept as Industrial Design. 
 
 ![Welcome](../img/6.PNG)
@@ -168,16 +179,37 @@ An original design is better than an amazing prebuilt.. at least when it comes t
 
 I did an 3 month internship and my favorite design I did for that startup is this one here.
 
+![Welcome](../img/14.PNG)
 
+![Welcome](../img/10.PNG)
 
+![Welcome](../img/11.PNG)
+
+![Welcome](../img/12.PNG)
+
+![Welcome](../img/13.PNG)
 
 This is actually two designs. One it showcases a UI inside the UI. The design is for an onboarding screen, and that onboarding screen uses an UI that was designed for the Production Application. 
+
+![Welcome](../img/14.PNG)
 
 This one is slightly better, and it shows that there was impovement, for example the use of text and the heirarchy of the text is alot better.
 
 As well as the positioning of the elements on the Usser Interface.
 
 This one is better it shows a lot of improvement.
+
+![Welcome](../img/16.PNG)
+
+![Welcome](../img/17.PNG)
+
+![Welcome](../img/18.PNG)
+
+![Welcome](../img/19.PNG)
+
+![Welcome](../img/20.PNG)
+
+![Welcome](../img/21.PNG)
 
 So now what? 
 
