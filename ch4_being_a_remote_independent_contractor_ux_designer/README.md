@@ -1,4 +1,41 @@
-# Chapter 4: Being a Remote Independent Contractor UX Designer
+# Chapter 4: The Permanent Remote UX Designer
+
+## Overview
+
+Covid-19 did change many things for many people around the globe.
+
+But before Covid-19 there were many things put into place to facilliate the possibility of remote work. 
+
+For example the improvement of network speeds, video conference software and other productivity tools, that allow individuals to do work even when things are done remotely.
+
+Because of this, a new way of approaching work needs to be invisioned.
+
+## The Permanent Remote UX Designer
+
+This may be a dream to some, or to others this could be a nightmare.
+
+But the possibilty of a job being done remotely has much to do with the deliverables that the output of the work is in.
+
+For UX Design because most of the deliverables are digital assets, a transfer of those assets can be done as simily as sending an email.
+
+
+## PROS and CONS of Working Remotely
+
+There are many pros and cons of working remotely, 
+
+one of the main pros of working remotely is being able to control more of your immediate physical surrounds.
+
+For example in the San Francisco Bay Area and Silicon Valley, the traffic going into the city can be crowded during rush hour.
+
+One of the main pros is not having to drive in rush hour traffic.
+
+A Cons is staying dislipled and motivated, being more involved in your own productivity.
+
+## For people who already have experience working remotely
+
+Are you also looking towards the future to see how it can be possible for the job to be permanently remote?
+
+## Covid-19
 
 Post Covid-19, companies are warming to the concept of a remote worker. But before that all, there was a niche but vibrant ecosystem of remote online freelancer and contractors.
 

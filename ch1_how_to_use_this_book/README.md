@@ -16,7 +16,7 @@ Chapter 2, is about the design journey, in which we discuss different aspects of
 
 Chapter 3, is information related to User Interface and User Experience Design.
 
-Chapter 4, is about working as a remote contractor.
+Chapter 4, is about The Permanent Remote UX Designer.
 
 Chapter 5, is about jobs boards related to UX Design.
 

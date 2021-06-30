@@ -2,11 +2,10 @@
 
 ## Jae Min Kim
 ## San Francisco Bay Area, Silicon Valley
-## UI/UX Designer
 
 ### Jae Min Kim, is a local designer from the San Francisco Bay Area, and Silicon Valley. 
 
-### His art background is in Fine Art. His academic background began as an Industrial (Product) Design major at Hongik University in Seoul, South Korea, from Industrial Design > De Anza College (Cupertino, CA) Graphic Design > California College of the Arts (San Francisco, CA and Oakland, CA) Industrial Design > California College of the Arts (San Francisco, CA and Oakland, CA) Interaction Design / minor in Computational Practices > Southern New Hamshire University (Remote) Graphic & Web. Winter 2021 Presidents List for SNHU (https://meritpages.com/Jae-Min-Kim/6415480), Pell Grant, CAL Grant B, Clorox Scholor, CCA Scholor, Federal Work Study. 
+### AP Art at Mission San Jose High School, background in Fine Art. Academic background began as an Industrial (Product) Design major at Hongik University in Seoul, South Korea, from Industrial Design > De Anza College (Cupertino, CA) Graphic Design > California College of the Arts (San Francisco, CA and Oakland, CA) Industrial Design > California College of the Arts (San Francisco, CA and Oakland, CA) Interaction Design / minor in Computational Practices > Southern New Hamshire University (Remote) Graphic & Web. Winter 2021 Presidents List for SNHU (https://meritpages.com/Jae-Min-Kim/6415480), Pell Grant, CAL Grant B, Clorox Scholor, CCA Scholor, Federal Work Study. 
 
 ### Immersed into the UI/UX Design field as an intern at a startup in downtown San Francisco (SOMA), at the Spear Tower. 
 
