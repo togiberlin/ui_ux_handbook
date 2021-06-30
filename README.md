@@ -1,4 +1,4 @@
-# User Interface and User Experience Design Handbook (Remote Independent Contractor Edition 2021)
+# User Interface and User Experience Design Handbook (How to Become a Remote UX Designer in 2021)
 
 ![Book Cover](book_cover.png)
 
