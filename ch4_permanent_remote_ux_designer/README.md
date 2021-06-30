@@ -1,4 +1,4 @@
-# Chapter 4: The Permanent Remote UX Designer
+# Chapter 4: Permanent Remote UX Designer
 
 ## Overview
 
@@ -10,7 +10,7 @@ For example the improvement of network speeds, video conference software and oth
 
 Because of this, a new way of approaching work needs to be invisioned.
 
-## The Permanent Remote UX Designer
+## Permanent Remote UX Designer
 
 This may be a dream to some, or to others this could be a nightmare.
 
@@ -18,6 +18,13 @@ But the possibilty of a job being done remotely has much to do with the delivera
 
 For UX Design because most of the deliverables are digital assets, a transfer of those assets can be done as simily as sending an email.
 
+## Staying a remote worker
+
+The hardest part about being a remote worker, is when the boss wants you to stop being a remote worker and they want you to come into the office in person. Or when a company is looking for someone remote but eventually this person would need to relocate to a different physical location. Because of this a role that at first looks like it will be remote turns into a thing where you will need to go back into the office.
+
+When applying for jobs, apply for jobs that specifically state remote, as well as if applying to jobs in the local area, ask if this role is remote. If the position is in the local area, going into the office occasionally is something that is possible.
+
+To stay a permanent remote worker, carefuly planning and intential application process to only remote positions will allow one to become and stay a permanent remote ux designer.
 
 ## PROS and CONS of Working Remotely
 

@@ -1,4 +1,4 @@
-# Chapter 2: The Designer Journey
+# Chapter 2: Designer Journey
 
 What is the design journey? 
 
