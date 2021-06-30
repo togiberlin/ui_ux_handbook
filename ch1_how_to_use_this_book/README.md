@@ -24,6 +24,8 @@ Chapter 6, is an interview with a remote contractor working for Cisco.
 
 Chapter 7, is coding as an UI/UX Designer.
 
+Chapter 8, is about an UX Design Portfolio.
+
 This book if you get the paper edition you can write directly into this book, to answer the questions and fill in the information to:
 
 Here is the link to Amazon to purchase the paper edition of this book: www.amazon.com 
