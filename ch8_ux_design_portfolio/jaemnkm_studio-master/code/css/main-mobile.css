@@ -1,0 +1,597 @@
+/* 
+    Copyright (C) 2019 Hillotech, LLC. All Rights Reserved
+*/
+
+/* 
+
+    B - Mobile
+    B1. Body
+    B2. Top Navigation
+    B3. Main Banner
+    B4. Bottom Area
+    B5. Footer and Bottom Navigation
+    B6. Swiper
+
+*/
+
+/* 
+
+    B1. Body
+
+*/
+
+
+body{
+    margin:0;
+    padding:0;
+}
+
+a, h1, h2, h3{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* 
+
+    B2. Top Navigation
+
+*/
+
+.top-nav-mobile{
+    padding:0;
+    background-color: #fff;
+    height:50px;
+    width: 100%;
+    position: fixed;
+    box-shadow: 0px 0px 0px .1px#000;
+    
+}
+
+.top-nav-mobile .logo-mobile{
+    color: #000;
+    margin:0;
+    position: absolute;
+    padding:0px 0px 0px 10px;
+    font-family: 'Pacifico', cursive;
+
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+
+.top-nav-mobile .logo-mobile1{
+    color: #000;
+    margin:0;
+    position: absolute;
+    padding:0px 0px 0px 10px;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+    font-size: 10px;
+    font-weight: 800;
+    margin-top: 30px;
+}
+
+
+.hamburger-mobile-menu{
+    height: 40px;
+    width:40px;
+    float: right;
+    margin: 10px 10px 0px 0px;
+}
+
+.bar{
+    background-color: #000;
+    height: 3px;
+    margin: 0px 0px 5px 0px;
+}
+
+.bar1{
+    background-color: #000;
+    height: 3px;
+    margin: 0px 0px 5px 0px;
+    
+}
+
+
+.menu-text{
+    font-size: 11px;
+    font-weight: 900;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    color: #777;
+}
+
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  
+  .navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+    background-color: red;
+  }
+  
+  .dropdown-content {
+
+    background-color: #fff;
+    width: 100%;
+    z-index: 1;
+    height: 900px;
+    position: fixed;
+    top: -1000px;
+    transition: top .1s ease 0s;
+    overflow: scroll;
+  }
+  
+  .show {
+    top: 0px;
+
+  }
+
+
+.bartest{
+    background-color: red;
+
+
+}
+
+.bar1test{
+    background-color: red;
+
+  
+}
+
+.dropdown-content .line{
+    width: 90%;
+    height:1px;
+    background-color: #000;
+    position: absolute;
+    left: 5%;
+    opacity: .2;
+}
+
+
+
+.plus{
+    font-size: 15px; 
+    font-style: bold; 
+    font-variant: normal; 
+    font-weight: 700; 
+    padding: 10px 10px 0px 20px;
+    display: inline-block
+}
+
+
+
+
+
+    .testnav{
+        width: 100%;
+        height: 35px;
+
+
+    }
+
+    .test-title{
+        height: 35px;
+        position: absolute;
+        margin: 10px 0px 0px 0px;
+    }
+
+
+    .rightplus{
+        width: 35px;
+        height: 35px;
+        background-color: green;
+        float: right;
+
+
+    }
+
+
+    .border{
+        padding: 20px 20px 20px 20px;
+
+
+    }
+
+
+    .testdiv{
+        background-color: white;
+        width: 100%;
+        height: 100%;
+        transition: top .1s ease 0s;
+        display: none;
+
+ 
+    }
+
+
+
+    .showtest{
+        display: block
+
+    }
+
+
+
+
+
+
+
+
+/* 
+
+    A3. Main Banner
+
+*/
+
+.main-banner-mobile{
+    width: 100%;
+    height: 200px;
+
+
+	background-image: url("../images/water_tablet-min.png"), url("../images/firstbackmobile_1.png");
+	background-position:	bottom center, center center;
+	background-repeat: 		no-repeat, no-repeat;
+	-webkit-background-size: cover, cover;
+    -moz-background-size: cover, cover;
+    -o-background-size: cover, cover;
+    background-size:  cover, cover;
+    
+
+}
+
+.divider-mobile{
+    width: 100%;
+    height: 100%;
+    display: inline-block
+}
+
+
+.divider-mobile .section-mobile{
+    width: 95%;
+    height: 300px;
+    
+    float: left;
+
+	background-image: url("../images/gradient-min.png"), url("../images/uguru1_1.png");
+	background-position:	center center, center center;
+	background-repeat: 		no-repeat, no-repeat;
+	-webkit-background-size: cover, cover;
+    -moz-background-size: cover, cover;
+    -o-background-size: cover, cover;
+    background-size:  cover, cover;
+    
+    margin: 10px 10px 0px 10px;
+    box-shadow: 0px 0px 0px .1px#000;
+}
+
+.divider-mobile .section1-mobile{
+    width: 95%;
+    height: 300px;
+    
+    float: left;
+
+	background-image: url("../images/gradient-min.png"), url("../images/f_polar_4-min.png");
+	background-position:	center center, center center;
+	background-repeat: 		no-repeat, no-repeat;
+	-webkit-background-size: cover, cover;
+    -moz-background-size: cover, cover;
+    -o-background-size: cover, cover;
+    background-size:  cover, cover;
+    
+    margin: 10px 10px 0px 10px;
+    box-shadow: 0px 0px 0px .1px#000;
+}
+
+.divider-mobile .section2-mobile{
+    width: 95%;
+    height: 300px;
+    
+    float: left;
+
+	background-image: url("../images/gradient-min.png"), url("../images/f_stepsaver_1-min.png");
+	background-position:	center center, center center;
+	background-repeat: 		no-repeat, no-repeat;
+	-webkit-background-size: cover, cover;
+    -moz-background-size: cover, cover;
+    -o-background-size: cover, cover;
+    background-size:  cover, cover;
+    
+    margin: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 0px .1px#000;
+}
+
+
+.section-mobile h2{
+    padding: 60px 10px 10px 50px;
+    color: #fff
+}
+
+.section-mobile h3{
+    padding: 10px 50px 10px 50px;
+    color: #fff
+}
+
+.section1-mobile h2{
+    padding: 60px 10px 10px 50px;
+    color: #fff
+}
+
+.section1-mobile h3{
+    padding: 10px 50px 10px 50px;
+    color: #fff
+}
+
+.section2-mobile h2{
+    padding: 60px 10px 10px 50px;
+    color: #fff
+}
+
+.section2-mobile h3{
+    padding: 10px 50px 10px 50px;
+    color: #fff
+}
+
+
+/* 
+
+    B4. Bottom Area
+
+*/
+
+.bottom-area-mobile{
+    margin:0px 0px 0px 0px;
+    width: 100%;
+    height: 500px;
+    display: inline-block
+}
+
+
+
+.title{
+    font-size: 15px; 
+    font-style: bold; 
+    font-variant: normal; 
+    font-weight: 700; 
+    padding: 10px 10px 0px 10px;
+    
+}
+
+.lowertext{
+    font-size: 15px; 
+    font-style: bold; 
+    font-variant: bold; 
+    font-weight: 300; 
+    padding: 0px 20px 0px 20px;
+}
+
+.hidden {
+	display: none;
+}
+
+
+/* 
+
+    A5. Footer and Bottom Navigation
+
+*/
+
+footer{
+    width: 100%;
+    height: 100px;
+    
+}
+
+footer .line{
+    width: 90%;
+    height:1px;
+    background-color: #000;
+    position: absolute;
+    left: 5%;
+    opacity: .2;
+}
+
+.bottom-nav{
+    padding:0;
+    height:80px;
+    width: 100%;
+}
+
+.bottom-nav ul{
+    margin:0;
+
+
+}
+
+.bottom-nav ul li{
+    display: inline;
+}
+
+.bottom-nav ul li a{
+    float:left;
+    padding:10px 0px 0px 0px;
+    width: 100px;
+    text-decoration:none;
+    color: #000;
+    font-size: 15px;
+}
+
+.bottom-nav ul li a:hover{
+    color: red;
+}
+
+.bottom-nav .social{
+    
+}
+
+.contact-us-text{
+    padding: 10px 10px 0px 10px;
+    font-size: 15px; 
+    font-style: normal; 
+    font-variant: bold; 
+    font-weight: 100; 
+    color: #999
+}
+
+.bottom-links{
+    font-size: 10px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    
+}
+
+.social{
+    float:right;
+}
+
+.bottom-area-mobile .line{
+    width: 90%;
+    height:1px;
+    background-color: #000;
+    position: absolute;
+    left: 5%;
+    opacity: .2;
+}
+
+
+
+.main{
+
+    box-shadow: 0px 0px 0px .1px#000;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+    B6. Swiper
+
+*/
+
+
+.screen .screen__container {
+    position: relative;
+  }
+  .swiper-container {
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .swiper-container .swiper-wrapper {
+    position: relative;
+    overflow: initial;
+    width: 100%;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide {
+    color: #fff;
+    height: 440px;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .img__container {
+    height: 12%;
+    width: 100%;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .img__container img {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container {
+    font-family: 'Open sans', sans-serif;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container h2 {
+    font-size: 26px;
+    font-weight: 300;
+    margin-bottom: 0;
+    line-height: 1.8;
+    letter-spacing: 0.1vw;
+    color: #fff;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container p {
+    margin: 0;
+    color: #fff;
+  }
+  .swiper-container .swiper-pagination {
+    bottom: 6%;
+    width: 100%;
+
+  }
+  .swiper-container .swiper-pagination span {
+    display: inline-block;
+  
+    width: 6px;
+    height: 6px;
+    margin: 0 3px;
+    transition: all 0.4s ease;
+  }
+  .button__container {
+    width: 100%;
+    position: absolute;
+    bottom: 14%;
+
+  }
+  .button__container button {
+    display: inline-block;
+    border: none;
+    background-color: #fff;
+    color: #fff;
+    padding: 12px 40px;
+    border-radius: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container h2,
+  .swiper-container .swiper-wrapper .swiper-slide .text__container p {
+    display: inline-block;
+    width: 100%;
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container h2 {
+    transition: all 1s ease;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container p {
+    transition: all 1s 0.25s ease;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide-active .text__container h2,
+  .swiper-container .swiper-wrapper .swiper-slide-active .text__container p {
+    display: inline-block;
+    width: 100%;
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  .swiper-container .swiper-wrapper .swiper-slide-active .text__container h2 {
+    transition: all 1s ease;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide-active .text__container p {
+    transition: all 1s 0.25s ease;
+  }
+  
+  .swiper-pagination-bullet .swiper-pagination-bullet-active{
+    background-color: #000;
+  }
+  
+  .swiper-pagination-bullet{
+    background: #000 !important;
+  }
+
+
+  .swiper-pagination-fraction, .swiper-pagination-custom, .swiper-container-horizontal>.swiper-pagination-bullets {
+    bottom: 270px !important
+}
