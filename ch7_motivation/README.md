@@ -1,4 +1,4 @@
-# Chapter 6: Motivations (The Pep Talk)
+# Chapter 7: Motivations (The Pep Talk)
 ## Motivations
 ## Javier Martinez's Chapter
 ## Motivation (Pep Talk)

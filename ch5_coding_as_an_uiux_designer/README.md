@@ -1,4 +1,4 @@
-# Coding as an UI/UX Designer
+# Chapter 5: Coding as an UI/UX Designer
 
 ## Overview
 This chapter is about being a designer, while being able to code. Clearly at a technical level being a designer means that technical coding skills will never be at par with a developer. A developer will be able to have a deep understanding on coding methodologies as well as inside knowledge on intricate working of the actual system itself. A designer only needs to understand development up to the point of it's usability. For example if there is a web app dashboard which has the tech stack of being a wordpress site, then as a designer understanding to a certain extent that there is a thing that is an admin dashboard will greatly improve their overall understanding the limitations of the technology itself, to pull back the curtain of the mystic, which to the designer is the code. Once that magic layer is broken, then the designer can have a more fundamental understanding of the medium, of which iks to be utilized.

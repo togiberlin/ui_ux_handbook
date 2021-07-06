@@ -1,7 +1,52 @@
-# Chapter 5: Online Design Communities, Salaries Potential, Job Growth
+# Chapter 6: Online Design Communities, Salaries Potential, Job Growth
 ## Online Presence and Design Communities
 
-USA only jobs for design
+# How to start with(out) good references
+There are a few things employers look for when hiring designers for jobs. They look at the resume, the portfolio, credentials, as well as references.
+
+A designer can prepare a resume, a portfolio and get credentials, but when you are someone that is starting out with few or no real references in the UX Design industry, because of no real job experience in UX or if the references are now old and unrelevent. 
+
+Even without references, a designer can apply for positions but without any real references it will be difficult because of the competition having references. Sometimes a good reference can make the difference between getting a job or not getting a job.
+
+There are a few ways to get started, even with no references. For one, getting a job at any company, for any role will be a reference for another job. But ideally it is important that the reference is relevant to design.
+
+Starting for applying for one piece contracts, or gig positions is a great place to start because, each of those contracts can turn into something greater, but as well as them becoming a reference for the work completed.
+
+Sometimes contracts also ask for references, but when doing quick piece work, usually they will allow you to complete the piece as soon as possible and start work as soon as possible.
+
+## Gigs: How to get fresh references to apply for full time positions
+You are a up and coming artist, looking to make it into the design world, and then you realize you have no references. Don't fear, there is still a way to make it into the world. These are called gigs. Gigs can be small contracts, or just verbal contracts, that state that work was done, as well as if the gig was paid or unpaid. 
+
+Each of these Gigs could turn into more work, but for someone who doesnt have a reference, it is important to start wih Gigs, to build up a client list of people whom you are working with or for, and then that reference list will be what is used when speaking to hiring managers at larger companies for full time positions.
+
+### Where to find Gigs 
+Finding Gigs and finding Jobs are different
+
+There are places where you can find jobs for example Indeed is a good place to find jobs.
+
+There are places to find gigs for example:
+
+These are freelancer websites where you can start building out a profile to apply for gigs, and start doing gigs that are related to UX Design. But you will need to compete against other freelancers, and these freelacers are from across the world, and they do good work for cheaper.
+
+Freelancer.com
+
+Fiverr.com
+
+Upwork.com is a website that is slightly better and only accept us applicants.
+
+The high end of the freelancer websites is Topal, which also only accepts USA applicants. 
+
+#### Free Gigs
+To find gig leads for free you can also search Craigslist, to find leads for people looking for gigs across the USA. That was how I got started in UX Design, doing Gigs for people on Craigslist.
+
+Eventually built out a Lead Generator and Mail Automation System where it would scrap all leads from craiglist and automatically apply to all those gigs.
+
+https://github.com/jaeminkim-com/cl_scrapper
+
+Using this system, was able to create information on how a portfolio will influence the likelyhood of a client moving foward with a project/gig, is going to be the portfolio.
+
+
+## USA only jobs for design
 
 San Francisco Bay Area
 
@@ -18,7 +63,6 @@ Silicon Valley Area
 ## Contracts for Designers
 
 ## Gigs for Designers
-
 
 
 

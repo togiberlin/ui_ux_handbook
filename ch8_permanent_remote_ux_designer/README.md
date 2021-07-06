@@ -1,4 +1,4 @@
-# Chapter 4: Permanent Remote UX Designer
+# Chapter 8: Permanent Remote UX Designer
 
 ## Overview
 
