@@ -54,3 +54,40 @@ Once you are here you will be able to apply to the jobs that normal people are a
 This is the way to go if you arn't part of the design cream.
 
 But remember that 5 years without making progress with clients, or if your portfolio is not amazing after 5 years, then it might have more to do with a lack of skill, than lack of trying.
+
+## Conclusion
+
+It's alot to ask someone to really struggle and build out something for themselves without much financial help. Additionally facing the reality of having to support your ambitions of being a designer. Some do not have that luxury, and for some even trying to make this happen for themselves is a difficult journey.
+
+This is the designer journey, unless you had support to go to the best art colleges in the country, and you were able to concentrate on your studies and you graduated. But even then, you will be suprised to see the number of graduates that still dont have design jobs.
+
+Because of this reason. Once you have 5 years of experience as your own remote contractor with your own portfolio, you will be seen next to the cream. The cream have the best credentials, and sometimes even the best experience of internship while they were in school.
+
+But now they will actually look at you and give you a chance. So if you have a portfolio now that is actually better than the ones that come out of the art schools, because you have paid client work for example, even if that work was done for 20 dollars, is still client work, you because of that a portfolio filled with paid client work is actually better than a student portfolio with only personal and student projects.
+
+So this means now you will be able to compete against the cream, and the only way to show that you have the stuff is with a portfolio.
+
+When your portfolio is better than the rest of the competition you will get the job over someone with better credentials. This is common is places with less restriction, such as in the art and the design fields.
+
+If you are willing to put in that time and that work.. then you can become a designer. If you are not willing to do this kind of work, you can apply for art college and try to have the word UX in your major, please.
+
+At the end of the day, when you do have this portfolio that you have built out over several years, and the quality is there, you can start seeing people respond based on the portfolio alone.
+
+Now if you have the resume with your contractor position on your resume.
+
+For example mine is this:
+
+Remote UX Designer
+Company Name jaeminkim.com Contract
+Dates EmployedNov 2016 – Present
+Employment Duration4 yrs 9 mos
+LocationSan Francisco Bay Area
+• Designed User Interface and User Experience Designs for Clients across the United States and Canada.
+• Maintained Websites and Web Servers, with HTML/CSS/JS, jQuery, Bootstrap, React.JS.
+• Accomplished design tasks using Adobe Illustrator and XD, and produced design assets.
+
+With this part in the resume, recruiters can consider this as experience that can replace a college degree.
+
+The important part is that the portfolio needs to be stellar. 
+
+If you are looking for help with your portfolio, and need mentorship or a review, feel free to reach out at uxdesignsumo@gmail.com
