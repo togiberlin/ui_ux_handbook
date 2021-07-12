@@ -406,377 +406,706 @@ Zazzle
 
 Tea Collection
 
-Automotive
 Cruise - San Francisco
+
 Motiv Power Systems[2] – Hayward
+
 Lucid Motors – Newark
+
 NIO – San Jose
+
 Tesla (124) – Palo Alto, Fremont
+
 Rivian – Palo Alto
+
 Uber - San Francisco
+
 Waymo – Mountain View
+
 Zoox – San Carlos
+
 Byton – Santa Clara
+
 Biotechnology
+
 23andMe – Mountain View
+
 Anthera Pharmaceuticals – Hayward
+
 BioMarin Pharmaceutical – San Rafael
+
 Bio-Rad Laboratories – Hercules
+
 Buck Institute for Age Research – Novato
+
 Calico – South San Francisco
+
 Chiron – Emeryville
+
 Genentech – South San Francisco
+
 Gilead Sciences (140) – Foster City
+
 Intuitive Surgical – Sunnyvale
+
 Nektar Therapeutics – San Francisco
+
 Mendel Biotechnology, Inc. – Hayward
+
 Roche Molecular Systems - Belmont
+
 Signature BioScience - San Francisco
+
 Verily Life Sciences – Mountain View
+
 Consumer goods
+
 Benefit Cosmetics – San Francisco
+
 Bianchi USA – Hayward
+
 CamelBak – Petaluma
+
 Clorox (474) – Oakland
+
 GoPro – San Mateo
+
 Kleenspeed Technologies – Mountain View
+
 Method – San Francisco
+
 Sephora – San Francisco
+
 Specialized Bicycle Components – Morgan Hill
+
 Creative/design
+
 Ammunition – San Francisco
+
 IDEO – San Francisco
+
 Landor Associates – San Francisco
+
 Whipsaw – San Jose
+
 Traction (agency) - San Francisco
+
 fuseproject – San Francisco
-Education
+
 Chegg – Santa Clara
+
 Course Hero – Redwood City
+
 Coursera – Mountain View
+
 Khan Academy – Mountain View
+
 Magoosh – Berkeley
+
 Quizlet- San Francisco
+
 Remind – San Francisco
+
 Udacity - Mountain View
-Electronics
+
 Adaptec – Milpitas
+
 Advanced Micro Devices (AMD) (448) – Sunnyvale
+
 Agilent Technologies (547) – Santa Clara
+
 Altera (Intel) – San Jose
+
 AMAX Information Technologies – Fremont
+
 Antec – Fremont
+
 Apple Inc. (4) – Cupertino
+
 Applied Materials (218) – Santa Clara
+
 Asus – Fremont
+
 Broadcom Inc. (138) – San Jose
+
 Barracuda Networks – Campbell
+
 Brocade Communications Systems – Santa Clara
+
 Cisco Systems (64) – San Jose
+
 Digidesign – Daly City
+
 Dust Networks – Hayward
+
 E-mu Systems – Scotts Valley
+
 Fairchild Semiconductor – San Jose
+
 Fitbit – San Francisco
+
 Fujitsu Computer Products of America – Sunnyvale
+
 Genesis Microchip – Santa Clara
+
 Hewlett Packard (58) – Palo Alto
+
 Hewlett Packard Enterprise (109) – San Jose
+
 Hitachi Data Systems – Santa Clara
+
 Hitachi Global Storage Technologies – San Jose
+
 Integrated Device Technology – San Jose
+
 Intel (45) – Santa Clara
+
 Jawbone – San Francisco
+
 JDS Uniphase – Milpitas
+
 Juniper Networks – Sunnyvale
+
 Keysight - Santa Rosa
+
 KLA Tencor – Milpitas
+
 Lam Research (331) – Fremont
+
 Logitech – Newark
+
 Maxim Integrated - San Jose
+
 Marvell – Santa Clara
+
 Monster Cable Products – Brisbane
+
 Nest Labs – Palo Alto
+
 NetApp (478) – Sunnyvale
+
 Nvidia (292) – Santa Clara
+
 Plantronics (Now Poly) – Santa Cruz
+
 Philips Lumileds Lighting Company – San Jose
+
 Rambus – Los Altos
+
 Sanmina-SCI (385) – San Jose
+
 Seagate Technology (174) – Cupertino
+
 Silicon Graphics – Fremont (acquired by Rackable Systems)
+
 Silicon Image – Sunnyvale
+
 Solectron Corporation – Milpitas
+
 Sony Optiarc America Inc. – San Jose
+
 Super Talent – San Jose
+
 Supermicro – San Jose
+
 Synnex (130) – Fremont
+
 Terayon – Santa Clara
+
 THX – San Rafael
+
 Touchstone Semiconductor – Milpitas
+
 Western Digital (198) – San Jose
+
 Xilinx – San Jose
-Energy
+
 Bloom Energy – Sunnyvale
+
 Chevron (15) – San Ramon
+
 Cupertino Electric – San Jose
+
 Energy Recovery Inc. – San Leandro
+
 Mosaic Inc. – Oakland (solar power crowdfunding)
+
 PG&E (189) – San Francisco
+
 Primus Power – Hayward
+
 Rosendin Electric – San Jose
+
 SolarCity – San Mateo
+
 SunEdison – Belmont
+
 Sungevity – Oakland
+
 SunPower – San Jose
+
 Sunrun – San Francisco
+
 Engineering and Construction
+
 Granite Construction – Watsonville
+
 Katerra – Menlo Park
+
 Swinerton – San Francisco
+
 Webcor Builders – San Francisco
-Entertainment
+
 Capcom U.S.A. - San Francisco
+
 Dolby Laboratories – San Francisco
+
 Electronic Arts – Redwood City
+
 Industrial Light & Magic – San Francisco
+
 Kerner Optical – San Rafael
+
 Lucasfilm Animation – San Rafael (Lucas Valley)
+
 Netflix (164) – Los Gatos
+
 Niantic – San Francisco
+
 Pandora Radio – Oakland
+
 Philo – San Francisco
+
 Pixar – Emeryville
+
 Roblox – San Mateo
+
 Sega of America – San Francisco
+
 Skywalker Sound – San Rafael (Lucas Valley)
+
 Sony Interactive Entertainment (PlayStation) – San Mateo
+
 Zynga – San Francisco
-Financial
+
 Brex - San Francisco
+
 Robinhood - Menlo Park
+
 Calypso Technology - San Francisco
+
 Charles Schwab Corporation (271) – San Francisco - moving headquarters to Westlake, TX
+
 Coinbase – San Francisco
+
 FICO (Fair Isaac Corporation) - San Jose and San Rafael
+
 Fireman's Fund Insurance Company – Novato (now Allianz Global Corporate & Specialty)
+
 First Republic Bank - San Francisco
+
 Fisher Investments – Woodside
+
 Franklin Templeton Investments (493) – San Mateo
+
 Lending Club - San Francisco
+
 Patelco Credit Union - Dublin
+
 PayPal (182) – San Jose
+
 Robert Half International (482) – Menlo Park
+
 SigFig - San Francisco
+
 Silicon Valley Bank – Santa Clara
+
 SoFi - San Francisco
+
 Square, Inc. – San Francisco
+
 TPG Sixth Street Partners — San Francisco
+
 Visa, Inc. (137) – San Francisco
+
 Wells Fargo Bank (30) – San Francisco
+
 Yodlee – Redwood City
-Food and drink
-Food and drink establishments with one location are not included in this list. Local and regional establishments with more than one location are included.
 
 21st Amendment Brewery – San Leandro
+
 Anchor Brewers & Distillers, LLC – San Francisco
+
 Annabelle Candy Company – Hayward
+
 Annie's Homegrown – Berkeley
+
 Black Angus Steakhouse – Los Altos
+
 Blue Bottle Coffee – Oakland – subsidiary of Nestle
+
 C&H Pure Cane Sugar – Crockett
+
 Clif Bar – Emeryville
+
 Columbus Salame – Hayward
+
 Dreyer's Grand Ice Cream – Oakland
+
 Extreme Pizza - San Francisco
+
 Ghirardelli Chocolate Company – San Leandro
+
 Häagen-Dazs – Oakland
+
 Impossible Foods - Redwood City
+
 Il Fornaio – Corte Madera
+
 Jelly Belly – Fairfield
+
 Martinelli's – Watsonville
+
 Mountain Mike's Pizza – Hayward
+
 Odwalla – Half Moon Bay
+
 Otis Spunkmeyer – San Leandro
+
 Peet's Coffee & Tea – Emeryville
+
 Point Reyes Farmstead Cheese Company – Point Reyes Station
+
 PowerBar – Berkeley
+
 See's Candies – South San Francisco
+
 Shasta – Hayward
+
 Takaki Bakery (Andersen Institute of Bread and Life) – Hayward
+
 Togo's – San Jose
+
 Verve Coffee Roasters – Santa Cruz
-Healthcare
+
 Castlight Health – San Francisco
+
 Eargo – Mountain Valley
+
 Kaiser Permanente – Oakland
+
 One Medical - San Francisco
+
 Palo Alto Medical Foundation – Palo Alto
-Internet
+
 Airbnb – San Francisco
+
 Alphabet Inc.(11) – Mountain View
+
 Ask.com – Oakland
+
 Box – Redwood City
+
 Cisco (64) – San Jose
+
 Craigslist – San Francisco
+
 DoorDash - San Francisco
+
 Dropbox - San Francisco
+
 Ebates – San Francisco
+
 eBay (295) – San Jose
+
 Evernote - Redwood City
+
 Facebook (46) – Menlo Park
+
 Glassdoor - Mill Valley
+
 Google – Mountain View - subsidiary of Alphabet Inc.
+
 Instacart – San Francisco
+
 LinkedIn – Sunnyvale
+
 Lyft – San Francisco
+
 Pinterest – San Francisco
+
 Poshmark - Redwood City
+
 Quora – Mountain View
+
 Salesforce.com (190) – San Francisco
+
 Slack Technologies – San Francisco
+
 Poll Everywhere - San Francisco
+
 Postmates - San Francisco
+
 Rubrik - Palo Alto
+
 SurveyMonkey – San Mateo
+
 Tripping.com – San Francisco
+
 Twitch – San Francisco
+
 Twitter – San Francisco
+
 Uber (228) – San Francisco
+
 Wikimedia Foundation – San Francisco
+
 Workday – Pleasanton
+
 Yelp – San Francisco
+
 Yummly – Palo Alto - subsidiary of Whirlpool Corporation
+
 YouTube – San Bruno - subsidiary of Alphabet Inc.
+
 Zendesk - San Francisco
+
 Zoosk – San Francisco
+
 Zoom Video Communications - San Jose
-Media
+
 Communication Arts – Menlo Park
+
 Daily Review – Hayward
+
 Dwell – San Francisco
+
 Future US – South San Francisco
+
 POPSUGAR Inc. – San Francisco
+
 San Francisco Chronicle – San Francisco
+
 San Jose Mercury News – San Jose
+
 University of California Press – Berkeley
+
 Complex (magazine) – San Francisco
-Mobile media
+
 Bleacher Report – San Francisco
+
 MobiTV – Emeryville
+
 TubeMogul – Emeryville
-Musical instruments and accessories
+
 Dunlop Manufacturing – Benicia
+
 E-mu Systems – Scotts Valley
+
 Saga Musical Instruments – South San Francisco
+
 Santa Cruz Guitar Company – Santa Cruz
-Networking
+
 A10 Networks – San Jose
+
 Arista Networks – Santa Clara
+
 Aryaka Networks – Milpitas
+
 Barefoot Networks – Palo Alto
+
 Brocade Communications – San Jose
+
 Cisco (64) – San Jose
+
 Ericsson – Santa Clara
+
 Extreme Networks – San Jose
+
 F5 Networks – San Jose
+
 Fortinet – Sunnyvale
+
 Juniper Networks – Sunnyvale
+
 Minerva Networks – San Jose
+
 NETGEAR – San Jose
+
 Palo Alto Networks – Santa Clara
-Real estate
+
 Digital Realty – San Francisco
+
 Jay Paul Company – San Francisco
+
 LiquidSpace – San Francisco
+
 Prologis – San Francisco
+
 Trulia – San Francisco
-Retail
+
 BevMo! – Concord
+
 California Closets - Richmond
+
 Cost Plus Inc. – Alameda
+
 Decathlon – San Francisco
+
 Gap.com – San Francisco
+
 Gymboree – San Francisco
+
 Jos. A. Bank - Fremont
+
 Levi's – San Francisco
+
 Macys.com – San Francisco
+
 Minted – San Francisco
+
 Pottery Barn – San Francisco
+
 Restoration Hardware – Corte Madera
+
 Ross Stores (412) - Dublin
+
 Safeway – Pleasanton – subsidiary of [Albertsons]
+
 Sephora - San Francisco
+
 Shutterfly – Redwood City
+
 Timbuk2 – San Francisco
+
 Walmart.com – San Bruno
+
 West Marine – Watsonville
+
 Williams-Sonoma, Inc. (489) – San Francisco
+
 Zazzle – Redwood City
-Software
+
 Adobe Inc. (285) – San Jose
+
 AppDynamics – San Francisco
+
 Autodesk – San Rafael
+
 Business Objects – San Jose
+
 Box - Redwood City
+
 Cloudera - Palo Alto
+
 DocuSign - San Francisco
+
 Dropbox - San Francisco
+
 Genesys – Daly City
+
 GitHub - San Francisco
+
 Intuit(445)– Mountain View
+
 Malwarebytes – Santa Clara
+
 McAfee – Santa Clara
+
 Medallia – Palo Alto
+
 Mozilla – Mountain View
+
 NetSuite – San Mateo
+
 New Relic – San Francisco
+
 Nutanix – San Jose
+
 Objectivity, Inc. – San Jose
+
 Oracle (82) – Redwood City
+
 Palantir Technologies – Palo Alto
+
 People Power Company – Palo Alto
+
 Piggybackr – San Francisco
+
 Pivotal Software – San Francisco
+
 Pyze – Redwood City
+
 Sage Intacct – San Jose
+
 SAP – Palo Alto
+
 ServiceNow - Santa Clara
+
 Splunk – San Francisco
+
 Sybase – Dublin
+
 Symantec (461) – Mountain View
+
 TeleNav – Santa Clara
+
 Trimble - Sunnyvale
+
 TIBCO Software – Palo Alto
+
 VMware – Palo Alto
-Sports
+
 24 Hour Fitness – San Ramon
+
 All Pro Wrestling – Hayward
+
 Fox Racing Shox – Scotts Valley
+
 Giro – Santa Cruz
+
 Golden State Warriors – San Francisco
+
 GoPro – San Mateo
+
 JumpSport – San Jose
+
 Kestrel USA – Santa Cruz
+
 Lowepro – Sebastopol
+
 Oakland A's – Oakland
+
 Oakland Panthers – Oakland
+
 Pac-12 Conference – Walnut Creek
+
 San Francisco 49ers – San Francisco
+
 San Francisco Giants – San Francisco
+
 San Jose Earthquakes - San Jose
+
 San Jose Sharks – San Jose
+
 San Jose Barracuda – San Jose
+
 Santa Cruz Bicycles – Santa Cruz
+
 Santa Cruz Skateboards – Santa Cruz
+
 Santa Cruz Warriors – Santa Cruz
+
 Specialized Bicycle Components – Morgan Hill
+
 TRX System – San Francisco
-Telecommunications
+
 Avaya – Santa Clara
+
 Pacific Telemanagement Services – San Leandro
-Transportation and logistics
+
 Gillig Corporation – Livermore
+
 Lyft - San Francisco
+
 Uber - San Francisco
-Companies formerly 
