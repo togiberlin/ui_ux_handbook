@@ -21,6 +21,8 @@ Not possible without higher level education and credentials
 
 Lack of Education, Lack of Experience (Bachelor at least)
 
+## Salary Range: 80K-200K
+
 ### Tier 1
 FAANG, Facebook, Amazon, Apple, Netflix, Google, Twitter, Instagram
 
@@ -31,16 +33,22 @@ IBM, Intel, Cisco, Samsung
 
 Lack of Experience, Lack of Skillsets, Lack of Education, Lack of Certification to Safely Practice, Toolkits
 
+## Salary Range: 60K-100K
+
 ### Tier 3
 Carmax, Geico, Farmers Insurance, Target, Walmart, BOA, Bank of the West, US Bank, Minted LLC
 
 These companies are not known for tech, for example their product might not be tech related, but because they have tech infrastructure 
+
+## Salary Range: 40K-80K
 
 ### Tier 4
 
 Small Businesses, Alarm CCTV D., Coffee Shop that has a website
 
 No name companies, most people have never heard of them
+
+## Salary Range: 20K-50K
 
 ### Tier 5
 
