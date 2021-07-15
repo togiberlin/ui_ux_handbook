@@ -1,0 +1,571 @@
+/* 
+    Copyright (C) 2019 Hillotech, LLC. All Rights Reserved
+*/
+
+/* 
+    A - Desktop
+    A1. Body
+    A2. Top Navigation
+    A3. Main Banner
+    A4. Bottom Area
+    A5. Footer and Bottom Navigation
+    A6. Swiper
+
+
+*/
+
+/* 
+
+    A1. Body
+
+*/
+
+body{
+    margin:0;
+    padding:0;
+}
+
+a, h1, h2, h3{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.toptext{
+    font-size: 15px; 
+    font-style: bold; 
+    font-variant: normal; 
+    font-weight: 700; 
+    color: #000;
+}
+
+.bottomtext{
+    font-size: 15px; 
+    font-style: bold; 
+    font-variant: bold; 
+    font-weight: 300; 
+    color: #999;
+}
+
+/* 
+
+    A2. Top Navigation
+
+*/
+
+
+.top-nav{
+    padding:0;
+    background-color: #fff;
+    height:80px;
+    width: 100%;
+    position: fixed;
+    box-shadow: 0px 0px 0px .1px#000;
+}
+
+.top-nav ul{
+    margin:0;
+    position: absolute;
+    left:30%;
+}
+
+.top-nav ul li{
+    display: inline;
+}
+
+.top-nav ul li a{
+    float:left;
+    padding:20px 70px 40px 5px;
+    width: 230px;
+    text-decoration:none;
+}
+
+.top-nav ul li a:hover{
+    color: red;
+}
+
+.top-nav .logo{
+    color: #000;
+    margin:0;
+    position: absolute;
+    padding:10px 70px 0px 50px;
+    font-family: 'Pacifico', cursive;
+
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 0px;
+}
+
+.top-nav .logo1{
+    color: #000;
+    margin:0;
+    position: absolute;
+    padding: 10px 70px 0px 50px;
+    font-family: 'Open Sans',  sans-serif;
+    text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 30px;
+
+}
+
+
+#sub {
+    position:fixed;
+    left:0;
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+    padding-inline-start: 0px;
+    box-shadow: 0px 0px 0px .1px#000;
+    float: left;
+}
+.dropdown{
+    top: -1000px;
+    transition: top .3s ease .1s;
+}
+.show {
+    top: 50px;
+}
+
+ul#sub li a{
+    text-decoration:none;
+    color: #000;
+}
+
+#sub1 {
+    position:fixed;
+    left:0;
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+    padding-inline-start: 0px;
+    box-shadow: 0px 0px 0px .1px#000;
+    float: left;
+}
+.dropdown1{
+    top: -1000px;
+    transition: top .3s ease .1s;
+}
+.show1 {
+    top: 50px;
+}
+
+ul#sub1 li a{
+    text-decoration:none;
+    color: #000;
+}
+
+#sub2 {
+    position:fixed;
+    left:0;
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+    padding-inline-start: 0px;
+    box-shadow: 0px 0px 0px .1px#000;
+    float: left;
+}
+.dropdown2{
+    top: -1000px;
+    transition: top .3s ease .1s;
+}
+.show2 {
+    top: 50px;
+}
+ul#sub2 li a{
+    text-decoration:none;
+    color: #000;
+}
+
+
+.column{
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding-top: 50px;
+}
+
+.column1{
+    width: 50%;
+    height: 100%;
+    float: right;
+    padding-top: 50px;
+}
+
+
+/* 
+
+    A3. Main Banner
+
+*/
+
+.main-banner{
+    width: 100%;
+    height: 350px;
+    
+
+	background-image: url("../images/water-test-back.png"), url("../images/firstbackbigcomp_1.png");
+	background-position:	bottom center, center center;
+	background-repeat: 		no-repeat, no-repeat;
+	-webkit-background-size: cover, cover;
+    -moz-background-size: cover, cover;
+    -o-background-size: cover, cover;
+    background-size:  cover, cover;
+
+
+}
+
+.divider{
+    width: 100%;
+    height: 400px;
+   
+
+}
+
+.divider .section{
+    margin: 10px 0px 10px 10px;
+
+    width: 30%;
+    height: 100%;
+    
+    float: left;
+
+	background-image: url("../images/gradient.png"), url("../images/uguru1_1.png");
+	background-position:	center center, center center;
+	background-repeat: 		no-repeat, no-repeat;
+	-webkit-background-size: cover, cover;
+    -moz-background-size: cover, cover;
+    -o-background-size: cover, cover;
+    background-size:  cover, cover;
+    box-shadow: 0px 0px 0px .1px#000;
+}
+
+.divider .section1{
+
+    margin: 10px 0px 10px 10px;
+    width: 30%;
+    height: 100%;
+    
+    float: left;
+    
+	background-image: url("../images/gradient.png"), url("../images/f_polar_4.png");
+	background-position:	center center, center center;
+	background-repeat: 		no-repeat, no-repeat;
+	-webkit-background-size: cover, cover;
+    -moz-background-size: cover, cover;
+    -o-background-size: cover, cover;
+    background-size:  cover, cover;
+    box-shadow: 0px 0px 0px .1px#000;
+}
+
+.divider .section2{
+    margin: 10px 10px 10px 10px;
+    width: 30%;
+    height: 100%;
+  
+    float: left;
+
+	background-image: url("../images/gradient.png"), url("../images/f_stepsaver_1.png");
+	background-position:	center center, center center;
+	background-repeat: 		no-repeat, no-repeat;
+	-webkit-background-size: cover, cover;
+    -moz-background-size: cover, cover;
+    -o-background-size: cover, cover;
+    background-size:  cover, cover;
+    box-shadow: 0px 0px 0px .1px#000;
+}
+
+
+.section h2{
+    padding: 90px 10px 10px 50px;
+    color: #fff
+}
+
+.section h3{
+    padding: 10px 50px 10px 50px;
+    color: #fff
+}
+
+.section1 h2{
+    padding: 90px 10px 10px 50px;
+    color: #fff
+}
+
+.section1 h3{
+    padding: 10px 50px 10px 50px;
+    color: #fff
+}
+
+.section2 h2{
+    padding: 90px 10px 10px 50px;
+    color: #fff
+}
+
+.section2 h3{
+    padding: 10px 50px 10px 50px;
+    color: #fff
+}
+
+
+
+
+
+/* 
+
+    A4. Bottom Area
+
+*/
+
+.bottom-area{
+    margin:0;
+    width: 100%;
+    height: 500px;
+    
+}
+
+.bottom-area .column{
+    width: 25%;
+    height: 100%;
+    float: left;
+    padding-top: 50px;
+}
+
+.bottom-area .column1{
+    width: 25%;
+    height: 100%;
+    padding-top: 50px;
+    float: left;
+}
+
+.bottom-area .column2{
+    width: 25%;
+    height: 100%;
+    float: left;
+    padding-top: 50px;
+}
+
+.bottom-area .column3{
+    width: 25%;
+    height: 100%;
+    float: left;
+    padding-top: 50px;
+}
+
+
+
+.title{
+    font-size: 15px; 
+    font-style: bold; 
+    font-variant: normal; 
+    font-weight: 700; 
+    padding: 10px 10px 0px 50px;
+    
+}
+
+.lowertext{
+    font-size: 15px; 
+    font-style: bold; 
+    font-variant: bold; 
+    font-weight: 300; 
+    padding: 0px 0px 0px 50px;
+}
+
+/* 
+
+    A5. Footer and Bottom Navigation
+
+*/
+
+footer{
+    width: 100%;
+    height: 100px;
+    
+}
+
+footer .line{
+    width: 93%;
+    height: 2px;
+    background-color: #000;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.bottom-nav{
+    padding:0;
+    height:80px;
+    width: 100%;
+}
+
+.bottom-nav ul{
+    margin:0;
+
+
+}
+
+.bottom-nav ul li{
+    display: inline;
+}
+
+.bottom-nav ul li a{
+    float:left;
+    padding:20px 0px 0px 10px;
+    width: 100px;
+    text-decoration:none;
+    color: #000;
+}
+
+.bottom-nav ul li a:hover{
+    color: red;
+}
+
+.bottom-nav .social{
+    
+}
+
+.contact-us-text{
+    padding: 10px 10px 0px 50px;
+    font-size: 15px; 
+    font-style: bold; 
+    font-variant: bold; 
+    font-weight: 700; 
+    color: #999
+}
+
+.bottom-links{
+    font-size: 15px; 
+    font-style: bold; 
+    font-variant: normal; 
+    font-weight: 700; 
+    
+}
+
+.social{
+    float:right;
+}
+
+.main{
+    box-shadow: 0px 0px 0px .1px#000;
+}
+
+
+/* 
+
+    A6. Swiper
+
+*/
+
+
+.screen .screen__container {
+    position: relative;
+  }
+  .swiper-container {
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .swiper-container .swiper-wrapper {
+    position: relative;
+    overflow: initial;
+    width: 100%;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide {
+    color: #fff;
+    height: 440px;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .img__container {
+    height: 22%;
+    width: 100%;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .img__container img {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container {
+    font-family: 'Open sans', sans-serif;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container h2 {
+    font-size: 26px;
+    font-weight: 300;
+    margin-bottom: 0;
+    line-height: 1.8;
+    letter-spacing: 0.1vw;
+    color: #fff;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container p {
+    margin: 0;
+    color: #fff;
+  }
+  .swiper-container .swiper-pagination {
+    bottom: 6%;
+    width: 100%;
+
+  }
+  .swiper-container .swiper-pagination span {
+    display: inline-block;
+  
+    width: 6px;
+    height: 6px;
+    margin: 0 3px;
+    transition: all 0.4s ease;
+  }
+  .button__container {
+    width: 100%;
+    position: absolute;
+    bottom: 14%;
+
+  }
+  .button__container button {
+    display: inline-block;
+    border: none;
+    background-color: #fff;
+    color: #c4bdd4;
+    padding: 12px 40px;
+    border-radius: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container h2,
+  .swiper-container .swiper-wrapper .swiper-slide .text__container p {
+    display: inline-block;
+    width: 100%;
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container h2 {
+    transition: all 1s ease;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide .text__container p {
+    transition: all 1s 0.25s ease;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide-active .text__container h2,
+  .swiper-container .swiper-wrapper .swiper-slide-active .text__container p {
+    display: inline-block;
+    width: 100%;
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  .swiper-container .swiper-wrapper .swiper-slide-active .text__container h2 {
+    transition: all 1s ease;
+  }
+  .swiper-container .swiper-wrapper .swiper-slide-active .text__container p {
+    transition: all 1s 0.25s ease;
+  }
+  
+  .swiper-pagination-bullet .swiper-pagination-bullet-active{
+    background-color: #000;
+  }
+  
+  .swiper-pagination-bullet{
+    background: #000 !important;
+  }
+
+  .swiper-pagination-fraction, .swiper-pagination-custom, .swiper-container-horizontal>.swiper-pagination-bullets {
+    bottom: 200px !important
+}

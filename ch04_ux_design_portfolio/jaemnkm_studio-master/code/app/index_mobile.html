@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+    <!-- 
+		Copyright (C) 2019 Hillotech, LLC. All Rights Reserved
+
+        ########################################
+        ######      File Structure        ######
+        ########################################
+        
+        B0. Head
+            - MetaData
+
+        ########################################
+        ########################################
+        ########################################
+    -->
+<head>
+	<title>Mobile</title>
+	<meta charset="utf-8">
+	<meta content="width=device-width,initial-scale=1, user-scalable=no" name="viewport">
+	
+
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js">
+
+	<!-- Main CSS START -->
+	<link rel="stylesheet" href="../css/main-mobile.css" type="text/css"></link>
+	<!-- Main CSS END -->
+
+	<!-- 
+		Dependencies required for the fonts 
+	-->
+	<!-- Fonts START -->
+	<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css' rel='stylesheet' type='text/css'>
+	<!-- Fonts END -->
+
+	<!-- 
+		CSS dependencies required for the slider 
+	-->
+	<!-- Slider START -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+	<link rel='stylesheet' href='https://idangero.us/swiper/dist/css/swiper.css'>
+	<!-- Slider END -->
+
+	<!-- 
+		Double Check to make sure the device is mobile if not change it to desktop 
+	-->
+	<!-- Mobile to Desktop Inline JavaScript START -->
+	<script>
+		if (screen.width >= 699){
+		document.location = "index_desktop.html";
+	}
+	</script>
+	<!-- Mobile to Desktop Inline JavaScript END -->
+
+	
+</head>
+
+<body>
+
+	<!-- Header START -->
+	<header>
+		<!-- 
+			
+			This is where the Top Navigation as well as the 
+			drop down content is located.
+			
+		-->
+
+		<nav class="top-nav-mobile" style="z-index:999999999999">
+			<h1 class="logo-mobile">Jaemnkm</h1>
+			<h1 class="logo-mobile1">STUDIO</h1>
+
+
+		<!-- 
+			
+			Classic Hamburger Menu. 
+			I created this very simply with the following method.
+
+			1. Create class "hamburger-mobile-menu"
+			2. User clicks the class element "onclick"
+			3. Function is fired "hamburger_mobile_menu()"
+			4. At bottom of HTML page is inline JS.
+
+			<script>
+				/* When the user clicks on the button, 
+				toggle between hiding and showing the dropdown content */
+				function hamburger_mobile_menu() {
+					document.getElementById("myDropdown").classList.toggle("show");
+					document.getElementById("bar").classList.toggle("bartest");
+					document.getElementById("bar1").classList.toggle("bar1test");
+				}
+			</script>
+
+			5. The function will get the element by the ID name of "myDropdown".
+			6. Then it will add and then remove the class "show".
+			7. This occurs everytime of the user clicks the class element.
+			8. "bar" and "bar2" are seperate elements of the menu that change accordingly.
+		-->
+			<div class="hamburger-mobile-menu" onclick="hamburger_mobile_menu()">
+				<div class="bar" id="bar"></div>
+				<div class="bar1" id="bar1"></div>
+
+				<h1 class="menu-text">MENU</h1>
+			</div>
+		</nav>
+
+		<div class="dropdown-content" id="myDropdown" style="z-index:2">
+			<div class="border" style="padding-bottom: 150px;">
+
+
+			<div class="testnav" style="margin-top:50px;">
+				<div class="test-title">• Human - Computer Interaction Design</div>
+				<div class="rightplus" onclick="opentab()"></div>
+				
+			</div>
+			
+			<div class="testdiv" id="tab">
+					<div class="item">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+					<div class="item">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+					<div class="item">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+					<div class="item">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+					<div class="item">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+					<div class="item">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+			</div>
+			<div class="line"></div>
+
+			<div class="testnav">
+					<div class="test-title">• Graphical User Interface Design</div>
+					<div class="rightplus" onclick="opentab1()"></div>
+				</div>
+
+				<div class="testdiv" id="tab1">
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+				</div>
+				<div class="line"></div>
+
+				<div class="testnav">
+						<div class="test-title">• Full-Stack Development</div>
+						<div class="rightplus" onclick="opentab2()"></div>
+				</div>
+
+				<div class="testdiv" id="tab2">
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+						<div class="item">
+								<h2 class="title">• Title of Application</h2>
+								<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+						</div>
+				</div>
+				<div class="line"></div>
+
+				<div class="testnav">
+						<div class="test-title">• About</div>
+						<div class="rightplus"></div>
+				</div>
+
+				<div class="line"></div>
+
+				<div class="testnav">
+						<div class="test-title">• Contact</div>
+						<div class="rightplus"></div>
+				</div>		
+
+				<div class="line"></div>
+				
+				<div class="testnav">
+						<div class="test-title">• Blog</div>
+						<div class="rightplus"></div>
+				</div>	
+
+				<div class="line"></div>
+
+				<div class="testnav">
+						<div class="test-title">• Privacy Policy</div>
+						<div class="rightplus"></div>
+				</div>	
+
+				<div class="line"></div>
+
+				<div class="testnav">
+						<div class="test-title">• Terms of Use</div>
+						<div class="rightplus"></div>
+				</div>
+
+				<div class="line"></div>
+
+				<div class="testnav">
+						<div class="test-title">• Site Map</div>
+						<div class="rightplus"></div>
+				</div>
+
+				<div class="line"></div>
+
+				</div>
+			</div>
+
+			<!--<div style="margin-top:50px;">	
+				<div>
+						<h2 class="title">• Title</h2>
+						<h2 class="plus">+</h2>
+				</div>
+				<div class="line"></div>
+				<h2 class="title">• Title</h2>
+
+				<div class="line"></div>
+				<h2 class="title">• Title</h2>
+				<div class="line"></div>
+				<h2 class="title">• Title</h2>
+				<div class="line"></div>
+				<h2 class="title">• Title</h2>
+				<div class="line"></div>
+				
+			</div>-->
+
+
+
+		</div>
+
+	</header>
+	<!-- Header END -->
+
+	<div class="main-banner-mobile" >
+			<div class="screen__container" style="text-align:center">
+                    <div class="swiper-container">
+                      <div class="swiper-wrapper">
+                        <!-- Slides -->
+                        <div class="swiper-slide">
+                          <div class="img__container">
+                            
+                          </div>
+                          <div class="text__container">
+                            <h2 style="color:#000">Welcome</h2>
+                            
+                          </div>
+                        </div>
+                        <div class="swiper-slide">
+                          <div class="img__container">
+                           
+                          </div>
+                          <div class="text__container">
+                            <h2 style="color:#000">My name is</h2>
+                            <p style="color:#000">Jaemin Kim</p>
+                          </div>
+                        </div>
+                        <div class="swiper-slide">
+                          <div class="img__container">
+                           
+                          </div>
+                          <div class="text__container">
+                            <h2 style="color:#000">I am a Designer</h2>
+                            <p style="color:#000">Interaction, UX, UI, HCI, GUI</p>
+                          </div>
+                        </div>
+                        <!-- Pagination -->
+                        
+                      </div>
+                      <div class="swiper-pagination"></div>
+                    </div>
+              
+              
+                  </div>
+	</div>
+
+
+<div class="main">
+
+
+	<div class="divider-mobile">
+			<div class="section-mobile">
+				<h2>Project #1</h2>
+				<h3>Click on here and it will redirect to a random project that is showcased by the photo.</h3>
+			</div>
+			<div class="section1-mobile">
+					<h2>Project #2</h2>
+					<h3>Click on here and it will redirect to a random project that is showcased by the photo.</h3>
+			</div>
+			<div class="section2-mobile">
+					<h2>Project #3</h2>
+					<h3>Click on here and it will redirect to a random project that is showcased by the photo.</h3>
+			</div>
+
+		</div>   
+
+
+		    <!-- Bottom Area -->
+
+			<div class="bottom-area-mobile">
+
+					<div class="search" style="margin-left:20px;">
+							<input type="text" placeholder="search" data-search />
+						</div>
+
+					<div class="item" data-filter-item data-filter-name="1">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+			
+					<div class="item" data-filter-item data-filter-name="2">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+			
+					<div class="item" data-filter-item data-filter-name="3">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+
+					<div class="item" data-filter-item data-filter-name="4">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+			
+					<div class="item" data-filter-item data-filter-name="5">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+			
+					<div class="item" data-filter-item data-filter-name="6">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+
+					<div class="item" data-filter-item data-filter-name="7">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+			
+					<div class="item" data-filter-item data-filter-name="8">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+			
+					<div class="item" data-filter-item data-filter-name="React">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+
+					<div class="item" data-filter-item data-filter-name="test">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+			
+					<div class="item" data-filter-item data-filter-name="react">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+			
+					<div class="item" data-filter-item data-filter-name="test">
+							<h2 class="title">• Title of Application</h2>
+							<h3 class="lowertext">Application Demo and details about the project. For example the tech stack used. This maybe react/html/css/js.</h3>
+					</div>
+
+					<div class="line"></div>
+						
+					</div>
+			
+ <!-- Footer and Bottom Navigation -->
+
+ <footer>
+        <h3 class="contact-us-text">Contact us at 111-11-1111, or email us at contact@hello.com</h3>
+        <div class="line"></div>
+        
+
+        <nav class="bottom-nav">
+            <ul>
+                <li class="bottom-links"><a href="#">Privacy Policy</a></li>
+                <li class="bottom-links"><a href="#">Terms of Use</a></li>
+                <li class="bottom-links"><a href="#">About</a></li>
+                <li class="bottom-links"><a href="#">Contact</a></li>
+                <li class="bottom-links"><a href="#">Site Map</a></li>
+
+                
+            </ul>
+            
+            <ul class="social">
+                <li><a href="#" class="social-icon"><i class="fa fa-github"></i></a></li>
+                <li><a href="#" class="social-icon"><i class="fa fa-dribbble"></i></a></li>
+                <li><a href="#" class="social-icon"><i class="fa fa-linkedin"></i></a></li>
+            
+            </ul>
+
+		</nav>
+
+		<div class="line"></div>
+		
+		<h3 class="contact-us-text">Copyright @ 2019 Jaemnkm Studio. All rights reserved.</h3>
+        
+    </footer>
+
+</div>
+
+
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+    <script src='https://idangero.us/swiper/dist/js/swiper.min.js'></script>
+    <script>
+            var mySwiper = new Swiper ('.swiper-container', {
+              // Optional parameters
+              direction: 'horizontal',
+              loop: true,
+            
+              // If we need pagination
+              pagination: {
+                el: '.swiper-pagination',
+              },
+              
+              //autoplay: {
+              //  delay: 2500,
+              //  disableOnInteraction: true,
+              //},
+            
+            })
+						</script>
+						
+						<script>
+							/* When the user clicks on the button, 
+							toggle between hiding and showing the dropdown content */
+							function hamburger_mobile_menu() {
+								document.getElementById("myDropdown").classList.toggle("show");
+								document.getElementById("bar").classList.toggle("bartest");
+								document.getElementById("bar1").classList.toggle("bar1test");
+							}
+							</script>
+
+
+
+<script>
+		/* When the user clicks on the button, 
+		toggle between hiding and showing the dropdown content */
+		function opentab() {
+			document.getElementById("tab").classList.toggle("showtest");
+
+		}
+		function opentab1() {
+			document.getElementById("tab1").classList.toggle("showtest");
+
+		}
+		function opentab2() {
+			document.getElementById("tab2").classList.toggle("showtest");
+
+		}
+		</script>
+
+		<script>
+		$('[data-search]').on('keyup', function() {
+	var searchVal = $(this).val();
+	var filterItems = $('[data-filter-item]');
+
+	if ( searchVal != '' ) {
+		filterItems.addClass('hidden');
+		$('[data-filter-item][data-filter-name*="' + searchVal.toLowerCase() + '"]').removeClass('hidden');
+	} else {
+		filterItems.removeClass('hidden');
+	}
+	});
+</script>
+
+
+</body>
+
+</html>
