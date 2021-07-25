@@ -1,5 +1,7 @@
 # About This Author
 
+![Profile](files/img/profile.jpg)
+
 ## Jae Min Kim
 ## San Francisco Bay Area, Silicon Valley
 

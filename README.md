@@ -5,36 +5,24 @@
 
 #### What does a permanent remote UX Designer look like? What are the competition for remote workers? What are some realities remote workers face when looking at a permanant remote position? We will be discussing local positions in the San Francisco Bay Area and Silicon Valley, as well as an overview of various companies around the silicon valley areas, as well as potiential job growth and salaries as a remote UX Designer. 
 
-![Book Cover](book_cover.png)
+![Book Cover](files/img/book_cover.png)
 
 ## UXDesignSumo
 #### UXDesignSumo is your online resource for all things UX. We strive to provide a service and a Sass product list, that will provide various internal tools, as well as courses, digital UX Design kits, portfolio website web hosting. Stay tuned to learn more!
 ### www.uxdesignsumo.com
 
-## Front Cover
-### Overview
-### Cover Art
-#### Moodboard
-### Introduction
-#### Intro
-#### Accessing supporting files
-#### Legal Notes
-### Table of Contents
-#### Chapter 1: How to use this book
-#### Chapter 2: Designer Journey
-#### Chapter 3: User Interface Design and User Experience Design
-#### Chapter 4: UX Design Portfolio
-#### Chapter 5: Coding as an UI/UX Designer
-#### Chapter 6: UX Design Job
-#### Chapter 7: Motivation (The Pep Talk)
-#### Chapter 8: Permanent Remote UX Designer
-
-
-
-
-### About this Author
-### Reference
-## Back Cover
+# Part One: Design Journey
+## How to use this book
+## Designer Journey
+## Permanent Remote UX Designer
+## UX Design Portfolio
+# Part Two: UI/UX Design
+## User Interface and User Experience Design
+## Coding as an UI/UX Designer
+# Part Three: Design Job
+## UX Design Job
+## FANNG and Silicon Valley
+## Getting Design Job Secret
 
 Copyright C 2021 by UX Design Sumo
 All rights reserved.In accordance with the U.S. Copyright Act of 1976, the scanning, uploading, and electronic sharing of any part of this book without the persmission of the punblisher constitute unlawful piracy and theft of the author's intellectual property. If you would like to use material from the book (other than for review purposes), prior written permission must be obtained by contacting the publisher at uxdesignsumo@gmail.com. Thank you for your support of the author's rights.
@@ -96,3 +84,23 @@ Special Thanks: Sara A, and to all my friends/family, whom were patient with me,
 
 ### Fullstack React, The Complete Guide to ReactJS and Friends
 #### Anthony Accomazzo, Arllerner, Clay Allsopp, David Guttman, Tyler Mcginnis, Nate Murray
+
+# Accessing Supporting Files
+
+This book is going to be using additional supporting files and courses from a online course which is provided free at this url:
+
+uxdesignsumo.com/course
+
+Additionally there are files which can be accessessed here
+
+uxdesignsumo.com/digital
+
+To create an account for easier access these resources please registure online at 
+
+uxdesignsumo.com/registure
+
+Please registure the version of the book here.
+
+Let's have a coupon or a registration code so people think something is happening but all im doing is gathering user information.
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea24bb22-f09a-44fe-b98f-d8cc6ae0b8db/uxdesignsumo.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea24bb22-f09a-44fe-b98f-d8cc6ae0b8db/uxdesignsumo.png)

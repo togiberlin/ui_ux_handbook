@@ -12,6 +12,31 @@ Getting interviews at these companies is pretty easy, as long as you are located
 
 2. You need to be at a certain quality of skill level, as well as experience and correct credentials related to safely practice, as well as professionalism.
 
+## Recruiters
+
+### Getting recruiters to contact you based on keywords, etc. Once a profile is built out recruiters will contact you.
+
+![Welcome](../img/recruiters.PNG)
+
+### When applying to jobs try to find recuiters that work internally for the company that the job is being offered from. This way you will be able to talk directly to the people who will be able to get you the position.
+
+![Welcome](../img/1-01.PNG)
+
+### Example of recruiter that works for an outside hiring company. getting a job from a recruiter that works through a hiring company will get a part of your salary as pay, also because they don't work at the company that is offering the job it will be a different process.
+
+![Welcome](../img/1-04.PNG)
+
+### This is an example of a recruiter that works at an outside hiring company, that is hiring for a UX Designer role at Apple.
+
+![Welcome](../img/1-02.PNG)
+
+### This is an example of a recruiter that works at an outside hiring company, that is hiring for an UX/UI Designer role at Facebook.
+
+![Welcome](../img/1-03.PNG)
+
+
+
+
 ## Tiers of Companies
 
 ## C Suite / Management

@@ -1,7 +1,17 @@
-# Chapter 7: Motivations (The Pep Talk)
-## Motivations
+# Interview with Project Manager at Cisco
 ## Javier Martinez's Chapter
-## Motivation (Pep Talk)
+
+### Intro
+
+Hey guys if you have read this part, that was a private interview/convo with Javier Martinez who is a remote contractor for Cisco. 
+
+The insights he shares, with this rich level of experience is worth it's weight, additionally there are several topics he really touched on.
+
+On a final note about applying for jobs, while it is true that each position that is shown to the public gets around 1000s of applicants, as well as possibly people who apply internally. 
+
+If you like to know more or if you have questions for Javier Martinez about any of the topics he touched on in this chapter, please contact test@test.com for more information.
+
+### Interview
 
 John:
 
@@ -297,15 +307,3 @@ SOmething motivation to say, to someone just starting out in their journey?
 Javier:
 
 Keep on working on your portfolio build it out dont be afraid to mingle, alwasys ask for openings, doesnth ave to be all job, it could be an intenship, it will be easier than appling through the website, you will be bundled into with 2000 other people, it will be easier to be chosen.
-
-## Motivations (Pep Talk)
-
-Hey guys if you have read this part, that was a private interview/convo with Javier Martinez who is a remote contractor for Cisco. 
-
-The insights he shares, with this rich level of experience is worth it's weight, additionally there are several topics he really touched on.
-
-On a final note about applying for jobs, while it is true that each position that is shown to the public gets around 1000s of applicants, as well as possibly people who apply internally. 
-
-Keep in mind that, while applying for positions, although at times it can be benifical or even a great advantage to have an insider whom can help you open doors from the inside, unless you are willing to accept that the position given to you is no longer relavant to the original career. As so applying in a way where you are placed into a pool of talent, allows every individual even if it is 1000s of applicants, to really have a fair chance. Additionally adding in the realities of the job market, it is understandable that people will need to take what they can. But if you are willing to put in the work, applying in a straightforward way along with the other 1000s of applications, can actually be better, allow you to make choices based on your own career path, although at time it will be an upward slope the entire way.
-
-If you like to know more or if you have questions for Javier Martinez about any of the topics he touched on in this chapter, please contact test@test.com for more information.

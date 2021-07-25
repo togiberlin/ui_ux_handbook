@@ -112,7 +112,7 @@ In High School, attended Mission San Jose High School in the Silicon Valley, Cal
 
 After High School, attended Hongik University in Seoul for Industrial Design for a year, Actually my background is still in the process but I can share things up to know. 
 
-![Welcome](../img/5.PNG)
+![Welcome](../../../files/img/5.PNG)
 
 So the first major I picked was Industrial Design.
 
@@ -120,24 +120,24 @@ So the first major I picked was Industrial Design.
 
 After returning to the United States of America, I attended DeAnza College in Cupertino for Graphic Design. 
 
-![Welcome](../img/1.PNG)
+![Welcome](../../../files/img/1.PNG)
 
-![Welcome](../img/2.PNG)
+![Welcome](../../../files/img/2.PNG)
 
-![Welcome](../img/24.PNG)
+![Welcome](../../../files/img/24.PNG)
 
-![Welcome](../img/25.PNG)
+![Welcome](../../../files/img/25.PNG)
 
-![Welcome](../img/28.PNG)
+![Welcome](../../../files/img/28.PNG)
 
-![Welcome](../img/31.PNG)
+![Welcome](../../../files/img/31.PNG)
 
-![Welcome](../img/41.PNG)
+![Welcome](../../../files/img/41.PNG)
 
 
 I transfered from DeAnza College to California College of the Arts In San Francisco, CA and Oakland, CA. My major I kept as Industrial Design. 
 
-![Welcome](../img/6.PNG)
+![Welcome](../../../files/img/6.PNG)
 
 I did an internship at downtown san franciso in the spear tower at a mobile application startup. For UI/UX Design and Graphic Design Intern.
 
@@ -157,13 +157,13 @@ When I started my internship, I was mainly doing office tasks for example buying
 
 One of the first tasks was the make graphics related to their logo.
 
-![Welcome](../img/7.PNG)
+![Welcome](../../../files/img/7.PNG)
 
-![Welcome](../img/8.PNG)
+![Welcome](../../../files/img/8.PNG)
 
 There I did my first UI Design, I will share it here.
 
-![Welcome](../img/9.PNG)
+![Welcome](../../../files/img/9.PNG)
 
 I will now critic this UI Design.
 
@@ -179,19 +179,19 @@ An original design is better than an amazing prebuilt.. at least when it comes t
 
 I did an 3 month internship and my favorite design I did for that startup is this one here.
 
-![Welcome](../img/14.PNG)
+![Welcome](../../../files/img/14.PNG)
 
-![Welcome](../img/10.PNG)
+![Welcome](../../../files/img/10.PNG)
 
-![Welcome](../img/11.PNG)
+![Welcome](../../../files/img/11.PNG)
 
-![Welcome](../img/12.PNG)
+![Welcome](../../../files/img/12.PNG)
 
-![Welcome](../img/13.PNG)
+![Welcome](../../../files/img/13.PNG)
 
 This is actually two designs. One it showcases a UI inside the UI. The design is for an onboarding screen, and that onboarding screen uses an UI that was designed for the Production Application. 
 
-![Welcome](../img/14.PNG)
+![Welcome](../../../files/img/14.PNG)
 
 This one is slightly better, and it shows that there was impovement, for example the use of text and the heirarchy of the text is alot better.
 
@@ -199,17 +199,17 @@ As well as the positioning of the elements on the Usser Interface.
 
 This one is better it shows a lot of improvement.
 
-![Welcome](../img/16.PNG)
+![Welcome](../../../files/img/16.PNG)
 
-![Welcome](../img/17.PNG)
+![Welcome](../../../files/img/17.PNG)
 
-![Welcome](../img/18.PNG)
+![Welcome](../../../files/img/18.PNG)
 
-![Welcome](../img/19.PNG)
+![Welcome](../../../files/img/19.PNG)
 
-![Welcome](../img/20.PNG)
+![Welcome](../../../files/img/20.PNG)
 
-![Welcome](../img/21.PNG)
+![Welcome](../../../files/img/21.PNG)
 
 So now what? 
 
