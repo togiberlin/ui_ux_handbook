@@ -90,4 +90,8 @@ With this part in the resume, recruiters can consider this as experience that ca
 
 The important part is that the portfolio needs to be stellar. 
 
+Here is my current resume, as you can see there is a section where it states that there was experience as a remote independent contractor, and then it lists out the clients that were worked for during that time.
+
+![Welcome](../../../files/img/resume.jpg)
+
 If you are looking for help with your portfolio, and need mentorship or a review, feel free to reach out at uxdesignsumo@gmail.com
