@@ -5,7 +5,7 @@
 
 #### What does a permanent remote UX Designer look like? What are the competition for remote workers? What are some realities remote workers face when looking at a permanant remote position? We will be discussing local positions in the San Francisco Bay Area and Silicon Valley, as well as an overview of various companies around the silicon valley areas, as well as potiential job growth and salaries as a remote UX Designer. 
 
-![Book Cover](files/img/book_cover.png)
+![Book Cover](files/img/book_cover_v1.png)
 
 ## UXDesignSumo
 #### UXDesignSumo is your online resource for all things UX. We strive to provide a service and a Sass product list, that will provide various internal tools, as well as courses, digital UX Design kits, portfolio website web hosting. Stay tuned to learn more!
