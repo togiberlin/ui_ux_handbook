@@ -70,4 +70,8 @@ This is an UI/UX Designer resume that I used to apply for UI/UX Designer jobs an
 
 This is the current version of the resume.
 
+![Welcome](../../../files/img/0001.jpg)
+
+Here is the resume in another format, with two columns, this format is useful. Note that in western societies it is common for people to read from the left to the right.
+
 As you can see it takes multiple iterations to create the career that you desire. Additionally starting off, resumes will not look great, nor will they have much job experience. But as you can see with effort and continually applying and getting better position, you can slowly climb yourself upwards as a freelancer or as a remote independent contractor. This method is particularlly useful for people who didnt start from the best of places and they are looking for a way to make it in the place that they are from as an UI/UX Designer. 
