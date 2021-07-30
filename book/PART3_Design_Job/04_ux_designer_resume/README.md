@@ -1,9 +1,5 @@
 # UX Designer Resume
 
-Based on the previous chapter, getting design job secret, a designer can have many different types of resumes over the years. For the lucky few who can get internships during college, and they start with a brand name in their resume right out of college, the path is more straight forward.
-
-For others whom, had to go through a process to even get their first job, it is more difficult.
-
 I would like to share with you the journey to getting to the current iteration of the resume.
 
 This is one of the first resumes that was used to apply for UI/UX Design jobs.
