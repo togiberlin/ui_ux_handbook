@@ -70,7 +70,7 @@ This is an UI/UX Designer resume that I used to apply for UI/UX Designer jobs an
 
 This is the current version of the resume.
 
-![Welcome](../../../files/img/0001.jpg)
+![Welcome](../../../files/img/resumes/0001.jpg)
 
 Here is the resume in another format, with two columns, this format is useful. Note that in western societies it is common for people to read from the left to the right.
 
