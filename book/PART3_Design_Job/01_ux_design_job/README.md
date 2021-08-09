@@ -45,6 +45,21 @@ https://github.com/jaeminkim-com/cl_scrapper
 
 Using this system, was able to create information on how a portfolio will influence the likelyhood of a client moving foward with a project/gig, is going to be the portfolio.
 
+## Job Roles
+
+User Interface (UI) Designer
+User Experience (UX) Designer
+UI/UX Designer
+UX/UI Designer
+Product Designer
+Web Designer
+App Designer
+Mobile Designer
+Product Designer
+
+
+
+
 
 ## USA only jobs for design
 
