@@ -102,13 +102,13 @@ Now I would like to share my personal design journey, and we can begin to break 
 
 My personal journey as a designer started from a background in the Fine Arts. 
 
-![Welcome](../img/3.PNG)
+![Welcome](../../../files/img/3.PNG)
 
 <!--- As many of you may have also experienced, my childhood was mainly unsupervised full of being enclosed in non airconditioned rooms, without TVs or Computers, actually the internet wasent really that good yet, people still used dial up and land lines. So I loved to draw and also write, being able to draw really saved my life at an early age. In High School which I attended in the Silicon Valley, California, I took AP Art, which means I took Art I, II, III then can take AP Art. --->
 
 In High School, attended Mission San Jose High School in the Silicon Valley, California, took AP Art.
 
-![Welcome](../img/4.PNG)
+![Welcome](../../../files/img/4.PNG)
 
 After High School, attended Hongik University in Seoul for Industrial Design for a year, Actually my background is still in the process but I can share things up to know. 
 

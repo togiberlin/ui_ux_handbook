@@ -16,23 +16,23 @@ Getting interviews at these companies is pretty easy, as long as you are located
 
 ### Getting recruiters to contact you based on keywords, etc. Once a profile is built out recruiters will contact you.
 
-![Welcome](../img/recruiters.PNG)
+![Welcome](../../../files/img/recruiters.png)
 
 ### When applying to jobs try to find recuiters that work internally for the company that the job is being offered from. This way you will be able to talk directly to the people who will be able to get you the position.
 
-![Welcome](../img/1-01.PNG)
+![Welcome](../../../files/img/re-01.png)
 
 ### Example of recruiter that works for an outside hiring company. getting a job from a recruiter that works through a hiring company will get a part of your salary as pay, also because they don't work at the company that is offering the job it will be a different process.
 
-![Welcome](../img/1-04.PNG)
+![Welcome](../../../files/img/re-02.png)
 
 ### This is an example of a recruiter that works at an outside hiring company, that is hiring for a UX Designer role at Apple.
 
-![Welcome](../img/1-02.PNG)
+![Welcome](../../../files/img/re-03.png)
 
 ### This is an example of a recruiter that works at an outside hiring company, that is hiring for an UX/UI Designer role at Facebook.
 
-![Welcome](../img/1-03.PNG)
+![Welcome](../../../files/img/re-04.png)
 
 
 
