@@ -95,3 +95,4 @@ Here is my current resume, as you can see there is a section where it states tha
 ![Welcome](../../../files/img/resume.jpg)
 
 If you are looking for help with your portfolio, and need mentorship or a review, feel free to reach out at uxdesignsumo@gmail.com
+

@@ -17,7 +17,11 @@
 
 ### With encouragement from co-developer teams, peer pressure, etc, self-taught web coder, web development, front-end development, full-stack development, additionally minor in computational practices at California College of the Arts (CCA), while an Interaction Design major, JavaScript, HTML, CSS, Jquery, wordpress, bootstrap. Favorite Front-end JavaScript Framework = React.JS. 
 
+### Currently living in San Jose, CA with four cats, three fish and fiance.
+
 ### His portfolio is viewable here: www.jaeminkim.com
+
+
 
 www.uxdesignsumo.com, 
 
