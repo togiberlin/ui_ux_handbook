@@ -56,9 +56,9 @@ If you would like to know more about UX Design Portfolio Websites, please visit 
 
 UX Design Sumo
 
-# Are UI/UX Designer Portfolios still relevant in 2021?
+# Are UI/UX Designer Portfolios still relevant in 2022?
 
-Here is why UI/UX Designer Portfolios are relevant in 2021, also for any other creative field that requires a thing such as a portfolio. The best way to understand a creative portfolio is by thinking of it as an artist’s self expression of style, and specification. Eventually there will be a certain look that fit a certain company’s design better than another designer who has more experience in another space. 
+Here is why UI/UX Designer Portfolios are relevant in 2022, also for any other creative field that requires a thing such as a portfolio. The best way to understand a creative portfolio is by thinking of it as an artist’s self expression of style, and specification. Eventually there will be a certain look that fit a certain company’s design better than another designer who has more experience in another space. 
 
 There are certain looks that certain companies are looking for and it’s difficult to understand the art behind the person, to understanding how a portfolio is a demonstration of the skillsets as well as the methods that the designer or artist used to design a collection of works such as a portfolio.
 

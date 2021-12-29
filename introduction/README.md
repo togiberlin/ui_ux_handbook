@@ -10,7 +10,7 @@ Lets start with the first job or the worst job you have ever had.
 
 Lets talk about what kind of person is the right fit for freelancing.
 
-How to be an UX Designer in 2021 (Freelancer Edition)
+How to be an UX Designer in 2022 (Freelancer Edition)
 
 What does a UX Portfolio look like?
 

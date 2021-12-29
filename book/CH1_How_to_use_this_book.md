@@ -42,9 +42,9 @@ But to access the web dashboard with the inteactive web course, they just need t
 
 Users who dont have the book they need to pay full price.
 
-This book is to motivate and empower individuals from every demographic who maybe interested in a path to becoming an UX Designer in 2021.
+This book is to motivate and empower individuals from every demographic who maybe interested in a path to becoming an UX Designer in 2022.
 
-During the early 2020 till now which is Feb 2021, there was a recent boom of remote digital work in response to the COVID-19 Pandemic. 
+During the early 2020 till now which is Dec 2022, there was a recent boom of remote digital work in response to the COVID-19 Pandemic. 
 
 For people unsure how to approach the new job market, this book is mainly a guide.
 
