@@ -30,7 +30,7 @@ To stay a permanent remote worker, carefuly planning and intential application p
 
 There are many pros and cons of working remotely, 
 
-one of the main pros of working remotely is being able to control more of your immediate physical surrounds.
+One of the main pros of working remotely is being able to control more of your immediate physical surroundings.
 
 For example in the San Francisco Bay Area and Silicon Valley, the traffic going into the city can be crowded during rush hour.
 
@@ -59,15 +59,3 @@ As an UX Designer, there can be difficulties with reaching certain clients becau
 Waking up to be on time at at a different time zone.
 
 If you are on the west coast and the client is on the east coast, it can be a good habit to wake up on time with the rest of the east coast PST to EST.
-
-How to Get Gigs
-
-There are a few different ways to get gigs.
-
-How to get the Gig over the competition
-
-Portfolio will be one of the main things that will be used to choose which Freelancer to go with. Other things that will be relevant is resume, social media accounts, etc.
-
-How much can we expect to get paid for gigs, jobs, etc. 
-
-Honest, talk about gigs, talk about how to get these jobs.
