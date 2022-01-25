@@ -1,11 +1,14 @@
 # User Interface and User Experience Design Handbook (Remote Edition 2022)
 
+### BUY KINDLE VERSION HERE
+:book: [Handbook](https://www.amazon.com/dp/B09PS93M6G/ref=cm_sw_em_r_mt_dp_T5N4BQ7R6RWMKZW6WTFJ)
+
 ## Remote UX Designer 2022
 #### Are you a designer, looking to make the journey into becoming a Remote UX Designer? Have you made the journey as a designer, and are you interested in making the leap to User Experience and User Interface Design? Are you an UX Designer looking for information on how to transition to a permanant remote position as a remote UX Designer? How does one make the transition in the digital medium and explore the virtual world of UI/UX Design? What are the PROs and CONs of working becoming the future of work, the permanent remote UX Designer.
 
 #### What does a permanent remote UX Designer look like? What are the competition for remote workers? What are some realities remote workers face when looking at a permanant remote position? We will be discussing local positions in the San Francisco Bay Area and Silicon Valley, as well as an overview of various companies around the silicon valley areas, as well as potiential job growth and salaries as a remote UX Designer. 
 
-![Book Cover](files/img/book_cover_v1.png)
+![Book Cover](files/img/bookcover.jpg)
 
 ## UXDesignSumo
 #### UXDesignSumo is your online resource for all things UX. We strive to provide a service and a Sass product list, that will provide various internal tools, as well as courses, digital UX Design kits, portfolio website web hosting. Stay tuned to learn more!
